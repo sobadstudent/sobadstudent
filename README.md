@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## hi, i'm Francesco, someone calls me bb
+i'm a cybersecurity student and music producer,
+i love hacking and make weird music
 <!--
 **sobadstudent/sobadstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
